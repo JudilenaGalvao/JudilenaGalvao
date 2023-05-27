@@ -17,10 +17,8 @@
 <br>
 <br>
 
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JudilenaGalvao&bg_color=0d1117&color=89388f&line=60207e&point=c9d1d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
- 
 <br>
 <br>
 
